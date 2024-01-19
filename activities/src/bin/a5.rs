@@ -24,9 +24,7 @@ fn main() {
     if a == 4 {
       break
     }
-    
+
     a = a + 1;
-    
-    
   }
 }
